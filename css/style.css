@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    padding: 10px;
+}
+
+.logo {
+    vertical-align: middle;
+}
+
+.text-logo {
+    font-size: 40px;
+    font-weight: bold;
+    vertical-align: middle;
+}
