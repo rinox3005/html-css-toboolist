@@ -55,3 +55,16 @@ header {
     width: 100px;
     border-radius: 5px;
 }
+
+ul {
+    list-style-type: none;
+    margin-bottom: 20px;
+}
+
+.list {
+    margin-top: 2px;
+    background-color: white;
+    padding-top: 25px;
+    padding-left: 50px;
+    padding-bottom: 25px;
+}
