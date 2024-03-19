@@ -4,8 +4,15 @@
     box-sizing: border-box;
 }
 
+.container {
+    width: 75%;
+    margin: 0 auto;
+}
+
 header {
     padding: 10px;
+    margin-bottom: 40px;
+    background-color: white;
 }
 
 .logo {
@@ -16,4 +23,35 @@ header {
     font-size: 40px;
     font-weight: bold;
     vertical-align: middle;
+}
+
+.bg-color {
+    background-color: lightgray;
+}
+
+.button {
+    height: 55px;
+    background-color: white;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding-top: 15px;
+    padding-left: 50px;
+}
+
+.button1 {
+    color: white;
+    background-color: rgba(60, 119, 245, 0.897);
+    border: none;
+    height: 30px;
+    width: 80px;
+    border-radius: 5px;
+}
+
+.button2 {
+    color: gray;
+    border-color: lightgrey;
+    font-weight: bold;
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
 }
